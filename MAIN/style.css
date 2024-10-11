@@ -1,0 +1,129 @@
+/* Your styles here */
+body{
+ font-family: Arial, Helvetica, sans-serif;
+ color: var(--N4QdCheV6mGo, #0f1111);
+ background-color: hsl(0, 0%, 90%);
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+}
+span{
+    color: #0E5D73;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+header{
+    background-color: #131921;
+}
+header div{
+   background-color: #232f3e;
+   color: white;
+   padding-left: 1rem;
+   padding-top: 0.5rem;
+   padding-bottom: 0.5rem;
+}
+
+.imgheader{
+    align-items: start;
+    padding-left: 1rem ;
+    width: 30%;
+    height: 30%;
+}
+header img{
+    width: 30%;
+    min-height: 30%;
+    padding-left: 10px;
+}
+section{
+    margin: 0 auto;
+    width: 95%;
+    text-align: center;
+    border: solid;
+    border-color: transparent;
+}
+.orangebox{
+    margin: 0 auto;
+    width: 95%;
+    text-align: center;
+    border: solid;
+    border-color: transparent;
+    color: white;
+    background-color: #f56600;
+}
+.greenbox{
+    height: 8rem;
+    margin-bottom: 0.8rem;
+    background-image: url(/assets/bg-image.png);
+    text-align: center;
+    color: white;   
+}
+.greenbox h1{
+    font-weight: 700;
+    padding-top: 3rem;
+    padding-bottom: 1.3rem;
+    font-size: 1.5rem;
+}
+.sec1{
+    border: solid;
+    border-color: white;
+    background-color: white;
+}
+.img4{
+    display: inline-flex;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+}
+.img4 img{
+   box-shadow: 4px 5px 20px #0f11114a;
+   max-width: 20%;
+   min-height: 20%;
+   justify-content: space-evenly;
+   border-color: transparent;
+   border-bottom-left-radius: 5%;
+   border-bottom-right-radius: 5%;
+   border-top-left-radius: 5%;
+   border-top-right-radius: 5%;
+   
+}
+
+.sec1 h2{
+    font-weight: 700;
+    text-align: left;
+    padding: 0.5rem;
+}
+.section2 img{
+    height: 100%;
+    width: 100%;
+}
+
+.sec3 img{ 
+    height: 100%;
+    width: 100%;
+}
+.flink{
+    text-align: center;
+    background-color: #232f3e;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+footer a{
+    color: white;
+}
+
+.flogo{
+    background-color: #131921;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    height: 100%;
+}
+footer img{
+    width: 10%;
+    height: 20%;
+    background-color: #131921;;
+}
+
+
+
